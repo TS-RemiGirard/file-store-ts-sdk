@@ -155,3 +155,5 @@ export class FileStoreClient {
         }
     }
 }
+
+export default FileStoreClient;
