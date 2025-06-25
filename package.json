@@ -1,0 +1,25 @@
+{
+  "name": "file-store-ts-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc --build",
+    "prepare": "tsc --build"
+  },
+  "keywords": [],
+  "author": "toosmart",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "axios-cookiejar-support": "^6.0.2",
+    "form-data": "^4.0.3",
+    "fs": "^0.0.1-security",
+    "tough-cookie": "^5.1.2"
+  }
+}
