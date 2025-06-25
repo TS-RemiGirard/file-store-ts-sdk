@@ -1,7 +1,7 @@
 {
   "name": "@toosmartdev/file-store-ts-sdk",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
